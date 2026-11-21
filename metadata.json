@@ -1,0 +1,17 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "sheepy1335"
+            }
+        ],
+        "Category": "",
+        "Description": "Tetofeed: blood-black glass with VHS scanlines, grain and a crimson glow seam",
+        "EnabledByDefault": true,
+        "Id": "Tetofeed",
+        "License": "GPL-3.0-or-later",
+        "Name": "Tetofeed",
+        "Version": "1.0"
+    },
+    "X-Plasma-API": "5.0"
+}
